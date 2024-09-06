@@ -1,1 +1,1 @@
-# shared-text-editor
+# Shared Text Editor
